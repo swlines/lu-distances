@@ -1,0 +1,272 @@
+ACT,Acton Town
+ALD,Aldgate
+ALE,Aldgate East
+AWY,Aldwych
+ALP,Alperton
+AME,Amersham
+ANG,Angel
+ARC,Archway
+AGR,Arnos Grove
+ARL,Arsenal
+BST,Baker Street
+BAL,Balham
+BNK,Bank
+BAR,Barbican
+BKG,Barking
+BDE,Barkingside
+BCT,Barons Court
+BAY,Bayswater
+BEC,Becontree
+BPK,Belsize Park
+BER,Bermondsey
+BNG,Bethnal Green
+BLF,Blackfriars
+BHR,Blackhorse Road
+BDS,Bond Street
+BOR,Borough
+BOS,Boston Manor
+BGR,Bounds Green
+BWR,Bow Road
+BTX,Brent Cross
+BRX,Brixton
+BBB,Bromley-by-Bow
+BHL,Buckhurst Hill
+BUR,Burnt Oak
+BSY,Bushey
+CRD,Caledonian Road
+CTN,Camden Town
+CWR,Canada Water
+CWF,Canary Wharf
+CNT,Canning Town
+CST,Cannon Street
+CPK,Canons Park
+CPP,Carpenders Park
+CLF,Chalfont & Latimer
+CHF,Chalk Farm
+CYL,Chancery Lane
+CHX,Charing Cross
+CHM,Chesham
+CHG,Chigwell
+CHP,Chiswick Park
+CWD,Chorleywood
+CPC,Clapham Common
+CPN,Clapham North
+CPS,Clapham South
+CFS,Cockfosters
+COL,Colindale
+CLW,Colliers Wood
+COV,Covent Garden
+CRX,Croxley
+DGE,Dagenham East
+DEB,Debden
+DHL,Dollis Hill
+EBY,Ealing Broadway
+ECM,Ealing Common
+ECT,Earls Court
+EAC,East Acton
+EFY,East Finchley
+EHM,East Ham
+EPY,East Putney
+ETE,Eastcote
+EDG,Edgware
+ERB,Edgware Road (Bakerloo)
+ERD,Edgware Road (H & C)
+ELE,Elephant & Castle
+EPK,Elm Park
+EMB,Embankment
+EPP,Epping
+EUS,Euston
+ESQ,Euston Square
+FLP,Fairlop
+FAR,Farringdon
+FYC,Finchley Central
+FRD,Finchley Road
+FPK,Finsbury Park
+FBY,Fulham Broadway
+GHL,Gants Hill
+GRD,Gloucester Road
+GGR,Golders Green
+GST,Goodge Street
+GRH,Grange Hill
+GPS,Great Portland Street
+GPK,Green Park
+GFD,Greenford
+GUN,Gunnersbury
+HAI,Hainault
+HMS,Hammersmith (C&H)
+HMD,Hammersmith (District and Picc)
+HMP,Hampstead
+HLN,Hanger Lane
+HSD,Harlesden
+HAW,Harrow & Wealdstone
+HOH,Harrow on the Hill
+HAT,Hatch End
+HTX,Hatton Cross
+HSL,Headstone Lane
+HRF,Heathrow Terminal 4
+HRV,Heathrow Terminal 5
+HRC,Heathrow Terminals 123
+HND,Hendon Central
+HBT,High Barnet
+HST,High Street Kensington
+HBY,Highbury & Islington
+HIG,Highgate
+HDN,Hillingdon
+HOL,Holborn
+HPK,Holland Park
+HRD,Holloway Road
+HCH,Hornchurch
+HNC,Hounslow Central
+HNE,Hounslow East
+HNW,Hounslow West
+HPC,Hyde Park Corner
+ICK,Ickenham
+KEN,Kennington
+KGN,Kensal Green
+KTN,Kentish Town
+KNT,Kenton
+KEW,Kew Gardens
+KIL,Kilburn
+KPK,Kilburn Park
+KXX,King's Cross St. Pancras
+KBY,Kingsbury
+KNB,Knightsbridge
+LBG,Ladbroke Grove
+LAM,Lambeth North
+LAN,Lancaster Gate
+LSQ,Leicester Square
+LEY,Leyton
+LYS,Leytonstone
+LST,Liverpool Street
+LON,London Bridge
+LTN,Loughton
+MDV,Maida Vale
+MNR,Manor House
+MAN,Mansion House
+MAR,Marble Arch
+MYB,Marylebone
+MLE,Mile End
+MHE,Mill Hill East
+MON,Monument
+MPK,Moor Park
+MGT,Moorgate
+MOR,Morden
+MCR,Mornington Crescent
+NEA,Neasden
+NEP,Newbury Park
+NAC,North Acton
+NEL,North Ealing
+NGW,North Greenwich
+NHR,North Harrow
+NWM,North Wembley
+NFD,Northfields
+NHT,Northolt
+NWP,Northwick Park
+NWD,Northwood
+NWH,Northwood Hills
+NHG,Notting Hill Gate
+OAK,Oakwood
+OLD,Old Street
+OLY,Olympia
+OST,Osterley
+OVL,Oval
+OXC,Oxford Circus
+PAD,Paddington
+PADc,Paddington Circle
+PADs,Paddington H & C
+PRY,Park Royal
+PGR,Parsons Green
+PER,Perivale
+PIC,Piccadilly Circus
+PIM,Pimlico
+PIN,Pinner
+PLW,Plaistow
+PUT,Putney Bridge
+QPK,Queen's Park
+QBY,Queensbury
+QWY,Queensway
+RCP,Ravenscourt Park
+RLN,Rayners Lane
+RED,Redbridge
+RPK,Regent's Park
+RMD,Richmond
+RKY,Rickmansworth
+ROD,Roding Valley
+ROA,Royal Oak
+RUI,Ruislip
+RUG,Ruislip Gardens
+RUM,Ruislip Manor
+RSQ,Russell Square
+SVS,Seven Sisters
+SBC,Shepherds Bush (Central Line)
+SSQ,Sloane Square
+SNB,Snaresbrook
+SEL,South Ealing
+SHR,South Harrow
+SKN,South Kensington
+SKT,South Kenton
+SRP,South Ruislip
+SWM,South Wimbledon
+SWF,South Woodford
+SFS,Southfields
+SGT,Southgate
+SWK,Southwark
+SJP,St. James's Park
+SJW,St. John's Wood
+STP,St. Paul's
+STB,Stamford Brook
+STA,Stanmore
+STG,Stepney Green
+STK,Stockwell
+SPK,Stonebridge Park
+SFD,Stratford
+SHL,Sudbury Hill
+STN,Sudbury Town
+SWC,Swiss Cottage
+TEM,Temple
+THB,Theydon Bois
+TBE,Tooting Bec
+TBY,Tooting Broadway
+TCR,Tottenham Court Road
+TTH,Tottenham Hale
+TOT,Totteridge and Whetstone
+THL,Tower Hill
+TPK,Tufnell Park
+TGR,Turnham Green
+TPL,Turnpike Lane
+UPM,Upminster
+UPB,Upminster Bridge
+UPY,Upney
+UPK,Upton Park
+UXB,Uxbridge
+VUX,Vauxhall
+VIC,Victoria
+WAL,Walthamstow Central
+WAN,Wanstead
+WST,Warren Street
+WAR,Warwick Avenue
+WLO,Waterloo
+WAT,Watford
+WTH,Watford High Street
+WTJ,Watford Junction
+WEM,Wembley Central
+WPK,Wembley Park
+WAC,West Acton
+WBT,West Brompton
+WFY,West Finchley
+WHM,West Ham
+WHD,West Hampstead
+WHR,West Harrow
+WKN,West Kensington
+WRP,West Ruislip
+WBP,Westbourne Park
+WMS,Westminster
+WCT,White City
+WCL,Whitechapel
+WLG,Willesden Green
+WJN,Willesden Junction
+WDN,Wimbledon
+WMP,Wimbledon Park
+WGN,Wood Green
+WFD,Woodford
+WSP,Woodside Park
